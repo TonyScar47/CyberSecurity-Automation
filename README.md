@@ -1,14 +1,22 @@
 # 🛡️ Cybersecurity & Automation
 
-This repository is dedicated to a collection of tools and scripts developed for security analysis and system task automation.
+Welcome to my personal collection of tools and scripts developed for security analysis, CTF challenges, and system task automation.
 
-## 🔧 Categories
-- **Network Security**: Scripts for packet analysis and network monitoring (Wireshark/Bash).
-- **Automation**: Tools to streamline test environment setups and security scanning workflows.
-- **CTF & Research**: Documentation and PoC (Proof of Concept) for bugs and vulnerabilities.
+## 🔧 Projects & Categories
+
+- **Automation & Provisioning**: 
+    - **[CyberArch-Automator](LINK_AL_NUOVO_REPO)**: An advanced Bash-based provisioning system (v9.1) designed for Arch Linux. It automates the setup of a complete cybersecurity lab, including mirror optimization via Reflector, BlackArch repository integration, and automated toolchain deployment (GDB, Radare2, Burp Suite, etc.).
+- **Network Security**: 
+    - Custom scripts for packet analysis and network monitoring using Wireshark and Bash.
+- **CTF & Research**: 
+    - Documentation and Proof of Concepts (PoCs) for vulnerability research and security training.
+
+## 🏗️ Upcoming Projects
+- **Project 2 — [Under Construction]**: I am currently working on a new tool focused on ... (^-^). 
 
 ## 🛠️ Core Technologies
 - **Languages**: Bash, Python, C.
-- **Environments**: Linux, Docker, Tor Project.
+- **Environments**: Arch Linux, Docker, Tor Project.
 
+---
 *"I love documenting everything — because clarity is key"*
