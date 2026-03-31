@@ -7,10 +7,13 @@ Welcome to my personal collection of tools and scripts developed for security an
 - **Automation & Provisioning**: 
     - **[CyberArch-Automator](https://github.com/TonyScar47/ArchZero-Cyber)**: ArchZero-Cyber is an advanced provisioning script designed to automatically configure a comprehensive cybersecurity laboratory       on Arch Linux. Developed for CyberChallenge.IT.
 
+- **System Customization & UI Automation**:
+    - **[Windows 11 AutoCustomizer](https://github.com/TonyScar47/Windows_11_AutoCustomizer)**: A one-click automation script designed to fully customize the Windows 11 UI.
+
 ---
 
 ## 🏗️ Upcoming Projects
-- **Project 2 — [Under Construction]**: I am currently working on a new tool focused on ... (^-^). 
+- **Project 3 — [Under Construction]**: I am currently working on a new tool focused on ... (^-^). 
 
 ---
 
