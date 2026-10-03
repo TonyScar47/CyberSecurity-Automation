@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity & Automation
 
-Welcome to my personal collection of tools and scripts developed for security analysis, CTF challenges, and system task automation.
+An index of my cybersecurity and automation projects. Each entry links to its own repository, where you'll find the code and full documentation
 
 ## 🔧 Projects & Categories
 
